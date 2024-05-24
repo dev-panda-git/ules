@@ -13,11 +13,10 @@ function App() {
           ules
         </h1>
         <div className=""></div>
-        <nav className="flex gap-3">
+        <nav className="flex gap-4">
           <a href="" className="px-6 p-3 rounded-full bg-white text-black">
             about
           </a>
-
           <a href="" className="px-6 p-3 rounded-full bg-white text-black">
             sponsorship
           </a>
@@ -32,10 +31,10 @@ function App() {
           </a>
         </nav>
       </header>
-      <div className="flex h-full items-center  p-4">
-        <div className="flex-1 flex flex-col gap-3">
-          <p></p>
-          <p className="text-8xl capitalize">
+      <div className="flex h-full items-center  p-4 gap-10">
+        <div className="flex-1 flex flex-col gap-6">
+          <p>shapig the future with green materials</p>
+          <p className="text-6xl capitalize">
             a student <span className="text-blue-500">society</span> of aspiring
             engineers
           </p>
